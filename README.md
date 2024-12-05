@@ -2,7 +2,7 @@
 
 Dynasty is here to redefine competitive gaming, merging the thrill of **custom room play** and **offline tournaments** with immersive experiences across popular video games like **Call of Duty**, **PUBG**, **Fortnite**, **Valorant**, and **God of War**. Dive into a gaming universe that pushes the boundaries of excitement and rewards, offering players and viewers an unparalleled platform for competition and engagement.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24808060-1aa1-4a86-871a-0845486ce242/deploy-status)](https://app.netlify.com/sites/dynastygaming/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c901cfb-32b9-4e2b-9c64-cf6a46da7bab/deploy-status)](https://app.netlify.com/sites/dynastygaming/deploys)
 ---
 
 ## 🚀 **Key Features**
